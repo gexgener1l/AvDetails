@@ -1,0 +1,1 @@
+C:\Aviagerman-prj\app\src\main\cpp\CMakeLists.txt

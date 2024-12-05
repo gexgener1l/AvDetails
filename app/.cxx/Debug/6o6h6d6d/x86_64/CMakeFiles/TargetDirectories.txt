@@ -1,0 +1,3 @@
+C:/Aviagerman-prj/app/.cxx/Debug/6o6h6d6d/x86_64/CMakeFiles/aviagerman-lib.dir
+C:/Aviagerman-prj/app/.cxx/Debug/6o6h6d6d/x86_64/CMakeFiles/edit_cache.dir
+C:/Aviagerman-prj/app/.cxx/Debug/6o6h6d6d/x86_64/CMakeFiles/rebuild_cache.dir

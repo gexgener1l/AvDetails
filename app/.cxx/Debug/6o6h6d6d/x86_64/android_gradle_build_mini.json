@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Aviagerman-prj\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\gexgw\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Aviagerman-prj\\app\\.cxx\\Debug\\6o6h6d6d\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\gexgw\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Aviagerman-prj\\app\\.cxx\\Debug\\6o6h6d6d\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "aviagerman-lib::@6890427a1f51a3e7e1df": {
+      "artifactName": "aviagerman-lib",
+      "abi": "x86_64",
+      "output": "C:\\Aviagerman-prj\\app\\build\\intermediates\\cxx\\Debug\\6o6h6d6d\\obj\\x86_64\\libaviagerman-lib.so",
+      "runtimeFiles": []
+    }
+  }
+}

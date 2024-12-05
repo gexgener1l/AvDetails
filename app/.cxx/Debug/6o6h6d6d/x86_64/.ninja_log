@@ -1,0 +1,5 @@
+# ninja log v5
+22708	22949	7546823644019725	C:/Aviagerman-prj/app/build/intermediates/cxx/Debug/6o6h6d6d/obj/x86_64/libaviagerman-lib.so	5f37f4f50a642a69
+3	22699	7546823641271428	CMakeFiles/aviagerman-lib.dir/native.cpp.o	d732c2ef2b07fff9
+61	6192	7549297311845623	CMakeFiles/aviagerman-lib.dir/native.cpp.o	d732c2ef2b07fff9
+6193	8250	7549297332918238	C:/Aviagerman-prj/app/build/intermediates/cxx/Debug/6o6h6d6d/obj/x86_64/libaviagerman-lib.so	5f37f4f50a642a69
